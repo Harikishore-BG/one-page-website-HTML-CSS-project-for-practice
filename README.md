@@ -1,1 +1,1 @@
-# one-page-website-HTML-CSS-project-for-practice
+# one page website (HTML CSS Project For Practice)
